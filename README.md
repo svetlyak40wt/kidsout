@@ -1,6 +1,8 @@
 KidsOut downloader
 ==================
 
+[![changelog](http://allmychanges.com/p/soft/kidsout-downloader/badge/)](http://allmychanges.com/p/soft/kidsout-downloader/?utm_source=badge)
+
 Что это?
 --------
 Скрипт для скачивания всех анкет с <http://kidsout.ru> для последующего поиска по ним грепом.
