@@ -1,0 +1,6 @@
+#!/bin/bash
+
+if [ ! -e env ]; then
+    virtualenv --python=python3 env
+    env/bin/pip install -U -r requirements.txt
+fi
